@@ -1,5 +1,15 @@
 https://smart-brain-avnd.herokuapp.com/ Click the link to Check the App
 
+Username: test@gmail.com
+Password: test123
+
+Paste any JPEG face image, and a face will be detected.
+
+Test image links below:
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGa_HSPmOuXZjwVPe3iRFse3_ev61GED0hTg&usqp=CAU
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNa_s9LW_BoqO2da_p_5d0fmamOaCFX9Kp5w&usqp=CAU
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKu1rhh09Vk6WW3ZVfEEMwIxTUizJVbLRag&usqp=CAU
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
